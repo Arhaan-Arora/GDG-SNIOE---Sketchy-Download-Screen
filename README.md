@@ -55,3 +55,8 @@ Scarier Simulator is a playful Java Swing demo:
 cd /path/to/project
 javac -d out $(find . -name "*.java")
 java -cp out ScarierSimulator
+
+```
+
+Author
+Arhaan Arora
